@@ -24,7 +24,7 @@ You could check my LinkedIn profile: https://www.linkedin.com/in/denislav-mladen
 <img align="left" alt="github" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 
 [) ⚡ Stats
-https://github-readme-stats.vercel.app/api?username=denislav-mladenov&show_icons=true&hide_border=true
+https://github-readme-stats.vercel.app/api?username=denislav-mladenov&show_icons=true&hide_border=true<br><br>
 <br><br>
 
 
