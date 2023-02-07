@@ -1,8 +1,8 @@
 [) ⚡ Introduction & Bio
 
-I am Denislav Mladenov (Denis) from Bulgaria.<br><br>
-I have Bachelor's degree and Master's degree, Computer system and technologies.<br><br>
-I work as a DevOps at SAP and in the maen time learning Python in SoftUni Bulgaria.<br><br>
+I am Denislav Mladenov (Denis) from Bulgaria.<br>
+I have Bachelor's degree and Master's degree, Computer system and technologies.<br>
+I work as a DevOps at SAP and in the maen time learning Python in SoftUni Bulgaria.<br>
 
 [) ⚡ How to reach me:
 
@@ -19,6 +19,8 @@ You could check my [LinkedIn profile](https://www.linkedin.com/in/denislav-mlade
 <img align="left" alt="git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <img align="left" alt="github" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 <br><br>
+
+<img align="right" alt="GIF" src="https://media.tenor.com/CeDk6XdCgOUAAAAj/develop-web.gif" /><br><br>
 
 [) ⚡ Stats
 
