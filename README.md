@@ -18,10 +18,11 @@ You could check my [LinkedIn profile](https://www.linkedin.com/in/denislav-mlade
 <img align="left" alt="css" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
 <img align="left" alt="git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <img align="left" alt="github" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+<br><br>
 
 [) ⚡ Stats
 
-[Denislav's github stats](https://github-readme-stats.vercel.app/api?username=denislav-mladenov&show_icons=true&hide_border=true)
+![Denislav's github stats](https://github-readme-stats.vercel.app/api?username=denislav-mladenov&show_icons=true&hide_border=true)
 <br><br>
 
 
