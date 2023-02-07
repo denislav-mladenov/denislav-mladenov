@@ -24,7 +24,7 @@ You could check my [LinkedIn profile](https://www.linkedin.com/in/denislav-mlade
 
 [) ⚡ Stats
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=denislav-mladenov"></img></p>
+<img src="https://komarev.com/ghpvc/?username=denislav-mladenov"></img>
 
 ![Denislav's github stats](https://github-readme-stats.vercel.app/api?username=denislav-mladenov&show_icons=true&hide_border=true)
 <br><br>
