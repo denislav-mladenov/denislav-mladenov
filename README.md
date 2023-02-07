@@ -23,7 +23,6 @@ You could check my [LinkedIn profile](https://www.linkedin.com/in/denislav-mlade
 <img align="right" alt="GIF" src="https://media.tenor.com/CeDk6XdCgOUAAAAj/develop-web.gif" /><br><br>
 
 [) ⚡ Stats
-<h4 align="center"><i>Some Stats</i></h4>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=denislav-mladenov"></img></p>
 
