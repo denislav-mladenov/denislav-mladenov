@@ -8,7 +8,7 @@ I work as a DevOps at SAP and in the maen time learning Python in SoftUni Bulgar
 
 You could check my [LinkedIn profile](https://www.linkedin.com/in/denislav-mladenov/)<br><br>
 
-[) ⚡ Technologies and tools
+[) ⚡ Technologies and tools (BASICS to FUNDAMENTALS experience)
 
 <img align="left" alt="python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="mongodb" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
