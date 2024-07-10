@@ -1,8 +1,9 @@
 [) ⚡ Introduction & Bio
 
-I am Denislav Mladenov (Denis) from Bulgaria.<br>
+Hello,
+My name is Denislav Mladenov from Bulgaria.<br>
 I have Bachelor's degree and Master's degree, Computer system and technologies.<br>
-I work as a DevOps at SAP and in the maen time learning Python in SoftUni Bulgaria.<br>
+I work as a DevOps at SAP .<br>
 
 [) ⚡ How to reach me:
 
@@ -13,7 +14,7 @@ You could check my [LinkedIn profile](https://www.linkedin.com/in/denislav-mlade
 <img align="left" alt="python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <img align="left" alt="github" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
-<img align="left" alt="terraform" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg />
+<img align="left" alt="terraform" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg)" />
 <img align="left" alt="mysql" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
 
 <br><br>
