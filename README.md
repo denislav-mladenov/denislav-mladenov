@@ -11,13 +11,11 @@ You could check my [LinkedIn profile](https://www.linkedin.com/in/denislav-mlade
 [) ⚡ Technologies and tools (BASICS to FUNDAMENTALS experience)
 
 <img align="left" alt="python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-<img align="left" alt="mongodb" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="mysql" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
-<img align="left" alt="postgresql" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="html" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
-<img align="left" alt="css" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
 <img align="left" alt="git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <img align="left" alt="github" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+<img align="left" alt="terraform" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg />
+<img align="left" alt="mysql" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
+
 <br><br>
 
 <img align="right" alt="GIF" src="https://media.tenor.com/CeDk6XdCgOUAAAAj/develop-web.gif" /><br><br>
