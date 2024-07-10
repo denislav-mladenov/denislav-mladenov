@@ -11,6 +11,7 @@ You could check my [LinkedIn profile](https://www.linkedin.com/in/denislav-mlade
 
 [) ⚡ Technologies and tools (BASICS to FUNDAMENTALS experience)
 
+<img align="left" alt="Linux" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
 <img align="left" alt="python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <img align="left" alt="github" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
@@ -19,6 +20,9 @@ You could check my [LinkedIn profile](https://www.linkedin.com/in/denislav-mlade
 <img align="left" alt="grafana" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" />
 <img align="left" alt="AWS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="Azure" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" />
+<img align="left" alt="Docker" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
+<img align="left" alt="Kubernetes" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" />
+<img align="left" alt="Postman" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" />
 
 <br><br>
 
