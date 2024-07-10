@@ -1,7 +1,7 @@
 [) ⚡ Short summary
 
-➤ Technical areas:
-• Proficient in Customer`s communication, Troubleshooting and providing RCAs and Project management.
+➤ Technical areas: <br><br>
+• Proficient in Customer`s communication, Troubleshooting and providing RCAs and Project management. <br><br>
 • Understanding the concepts of DevOps / GitOps / IaaS / PaaS / SaaS.
 • Experience working with various monitoring tools Pingdom / Grafana / Kibana / Dynatrace / Prometheus.
 • Experience with CI/CD Pipeline (Build / Release / Update / Blue-green deployments (Jenkins)).
