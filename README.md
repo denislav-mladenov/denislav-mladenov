@@ -14,7 +14,7 @@ You could check my [LinkedIn profile](https://www.linkedin.com/in/denislav-mlade
 <img align="left" alt="python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <img align="left" alt="github" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
-<img align="left" alt="terraform" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg)" />
+<img align="left" alt="terraform" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" />
 <img align="left" alt="mysql" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
 
 <br><br>
