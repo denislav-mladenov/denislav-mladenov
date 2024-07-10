@@ -1,6 +1,29 @@
-[) ⚡ Welcome
+[) ⚡ Short summary
 
-Hello and welcome
+➤ Technical areas:
+• Proficient in Customer`s communication, Troubleshooting and providing RCAs and Project management.
+• Understanding the concepts of DevOps / GitOps / IaaS / PaaS / SaaS.
+• Experience working with various monitoring tools Pingdom / Grafana / Kibana / Dynatrace / Prometheus.
+• Experience with CI/CD Pipeline (Build / Release / Update / Blue-green deployments (Jenkins)).
+• Experience with AWS / Azure /GCP /Alicloud consoles and services like EC2, S3, VPC, AMI, Autoscaling and CloudWatch.
+• Experience with GIT to perform multiple tasks (Repository configurations).
+• Experience with installation, configuration and administration of Linux and Windows.
+• Working with Jira / ServiceNow / Slack / MS Teams / Zoom.
+• Good understanding of Containerization (Docker / Kubernetes).
+• Good understanding of infrastructure (IaC / Terraform).
+• Good understanding of networking concepts like TCP/IP Protocols, Gateways and routing, DNS, VPC, CIDR etc.
+• Good understanding of Service security and stability (Certificates / Vault).
+• Some experience in developing Shell and Python scripts.
+
+
+➤ Personal skills:
+▪ Critical thinking with a passion for engineering and service excellence.
+▪ Excellent team player, self-motivated, passionate and highly driven.
+▪ Excellent communication skills, both written and verbal.
+▪ Willingness to learn new concepts and technologies.
+▪ Ability to troubleshoot complex problems throughout the whole technology stack.
+▪ Issue resolution experience, including Root Cause Analysis.
+▪ Good team management and team lead skills.
 
 [) ⚡ How to reach me:
 
