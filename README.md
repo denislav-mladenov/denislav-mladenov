@@ -8,6 +8,7 @@
 • Experience with AWS / Azure /GCP /Alicloud consoles and services like EC2, S3, VPC, AMI, Autoscaling and CloudWatch.<br>
 • Experience with GIT to perform multiple tasks (Repository configurations).<br>
 • Experience with installation, configuration and administration of Linux and Windows.<br>
+• Experience with Administration of the SAP HANA and SAP ASE Database management systems.<br>
 • Working with Jira / ServiceNow / Slack / MS Teams / Zoom.<br>
 • Good understanding of Containerization (Docker / Kubernetes).<br>
 • Good understanding of infrastructure (IaC / Terraform).<br>
