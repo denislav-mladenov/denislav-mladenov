@@ -1,9 +1,6 @@
-[) ⚡ Introduction & Bio
+[) ⚡ Welcome
 
-Hello,
-My name is Denislav Mladenov from Bulgaria.<br>
-I have Bachelor's degree and Master's degree, Computer system and technologies.<br>
-I work as a DevOps at SAP .<br>
+Hello and welcome
 
 [) ⚡ How to reach me:
 
